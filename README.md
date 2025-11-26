@@ -17,10 +17,6 @@ Reorganized, modular documentation for Sketchfab APIs (Data API v3, Download API
    - Guidelines: `docs/guidelines/50-developer-guidelines-overview.md`
 4. Browse code samples in `examples/` (JavaScript, Python, curl).
 
-## Legacy draft
-
-The original Portuguese draft remains as `sketchfab_api_documentacao.md` for reference. The current documentation lives in the `docs/` folder.
-
 ## Contributing
 
 Contributions are welcome. See `docs/meta/91-contributing.md` for guidance.
